@@ -1,4 +1,6 @@
-## **Readme do Projeto Plataforma de Busca de Parceiros de Jogos**
+## **DuoFinders**
+
+<img src="https://github.com/israelcruzz/DuoFinders/blob/main/%40duofinders-thumb.png" width="100%" />
 
 **Descrição:**
 
